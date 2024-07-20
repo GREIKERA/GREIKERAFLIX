@@ -2,11 +2,15 @@
 body {
     BACKGROUND: BLACK;
     COLOR: WHITE;
-    MARGIN: 0PX;
+
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    margin-left: 0px;
 
     font-family: "Stylish", serif;
    
-    margin-bottom: 550px;
+    
 }
 
 
