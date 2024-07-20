@@ -1,0 +1,85 @@
+
+body {
+    BACKGROUND: BLACK;
+    COLOR: WHITE;
+    MARGIN: 0PX;
+
+    font-family: "Stylish", serif;
+   
+    margin-bottom: 50px;
+}
+
+
+header {
+    BORDER-BOTTOM: SOLID 3PX RED;
+
+    PADDING: 20PX;
+    FONT-SIZE: 46PX;
+    COLOR: RED;
+}
+
+.CHAMADA {
+
+    BACKGROUND: RGB(0, 255, 148);
+    PADDING-TOP: 20PX;
+    PADDING-BOTTOM: 20PX;
+    
+    DISPLAY: FLEX;
+    JUSTIFY-CONTENT: CENTER;
+
+}
+
+.CHAMADA-TEXTO {
+
+    margin-right: 5%;
+
+}
+
+H1 {
+
+    FONT-SIZE: 53PX;
+}
+
+p {
+
+    FONT-SIZE: 46PX;
+
+}
+
+
+.categoria-videos {
+
+display: flex;
+overflow-x: auto;
+gap: 20PX;
+
+}
+
+.CATEGORIA {
+
+padding-left: 20px;
+padding-right: 20px;
+
+margin-top: 20px;
+
+}
+
+.categoria-videos img {
+
+opacity: 0.5;
+height: 200px;
+
+}
+
+.categoria-videos img:hover {
+
+    opacity: 1;
+    border: solid 4px yellow;
+}
+
+.CATEGORIA h2 {
+
+    COLOR: RED;
+
+}
+
