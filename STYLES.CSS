@@ -2,14 +2,11 @@
 body {
     BACKGROUND: BLACK;
     COLOR: WHITE;
+    margin: 0px;
+    
+      font-family: "Stylish", serif;
 
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 150px;
-    margin-left: 0px;
-
-    font-family: "Stylish", serif;
-   
+    margin-bottom: 180px;
     
 }
 
